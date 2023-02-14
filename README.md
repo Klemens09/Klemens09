@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Hope you are doing well. 
+Thank you for visiting my profile. 
 <!--
 **Klemens09/Klemens09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
